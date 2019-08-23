@@ -4,6 +4,9 @@
 
 ### Node ###
 # Logs
+
+/src/wendreo.js
+
 logs
 *.log
 npm-debug.log*
