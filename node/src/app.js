@@ -15,6 +15,7 @@ mongoose.connect('mongodb+srv://wendreof:thebestsandra3@wendreof-omnob.azure.mon
 //Carrega os Models
 const Product = require('./models/product')
 const Customer = require('./models/customer')
+const Order = require('./models/order')
 
 //Carrega as Rotas
 const indexRoute = require('./routes/index-route')
