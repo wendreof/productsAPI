@@ -48,7 +48,7 @@ exports.update = (id, data) => {
         })
 }
 
-exports.remove = (id) => {
+exports.delete = (id) => {
     return Product
         .findOneAndRemove(id)
 }
