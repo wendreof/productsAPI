@@ -1,0 +1,7 @@
+{
+  "appService.zipIgnorePattern": [
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/c56a7382-bdd5-4e58-ad47-d246cc0e12c0/resourceGroups/wlf/providers/Microsoft.Web/sites/wendreofnodeapi",
+  "appService.deploySubpath": ""
+}
